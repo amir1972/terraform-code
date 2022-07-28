@@ -72,7 +72,7 @@ az upgrade
 az --version
 ```
 
-[![Image](images/xcode-install-1.png "HashiCorp Certified: Terraform Associate on Azure")](images/xcode-install-1.png)
+[![Image](https://github.com/amir1972/terraform-code/blob/main/Install%20Tools/images/xcode-install-1.png.png "HashiCorp Certified: Terraform Associate on Azure")](https://github.com/amir1972/terraform-code/blob/main/Install%20Tools/images/xcode-install-1.png.png)
 
 [![Image](https://stacksimplify.com/course-images/xcode-install-2.png "HashiCorp Certified: Terraform Associate on Azure")](https://stacksimplify.com/course-images/xcode-install-2.png)
 

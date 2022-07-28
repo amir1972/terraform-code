@@ -81,7 +81,7 @@ az --version
 ![Image](https://github.com/amir1972/terraform-code/blob/main/Install%20Tools/images/xcode-install-4.png)
 
 
-## Step-05: Terraform - Authenticating using the Azure CLI
+## Terraform - Authenticating using the Azure CLI
 - [Azure Provider: Authenticating using the Azure CLI](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/azure_cli)
 ```t
 # Azure CLI Login
@@ -94,16 +94,16 @@ az account list
 az account set --subscription="SUBSCRIPTION_ID"
 ```
 
-## Step-06: Install Git Client
+## Install Git Client
 - [Download Git Client](https://git-scm.com/downloads)
 - This is required when we are working with `Terraform Modules`
 
-## Step-07: WindowsOS: Terraform & Azure CLI Install
-### Step-07-01: Install Git Client
+## WindowsOS: Terraform & Azure CLI Install
+### Step-01: Install Git Client
 - [Download Git Client](https://git-scm.com/downloads)
 - This is required when we are working with `Terraform Modules`
 
-### Step-07-02: Install Azure CLI
+### Step-02: Install Azure CLI
 - Install [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
 - `Step-05:Terraform - Authenticating using the Azure CLI` is going to be same for WindowsOS too. 
 ```t
@@ -117,7 +117,7 @@ az account list
 az account set --subscription="SUBSCRIPTION_ID"
 ```
 
-### Step-07-03: Install Terraform 
+### Step-03: Install Terraform 
 - [Download Terraform](https://www.terraform.io/downloads.html)
 - [Install CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 - Unzip the package
@@ -125,21 +125,21 @@ az account set --subscription="SUBSCRIPTION_ID"
 - Copy the `terraform.exe` to a `terraformbins`
 - Set PATH in windows 
 
-### Step-07-04: Configure Course Git Repo 
+### Step-04: Configure Course Git Repo 
 - [Course Git Repo](https://github.com/stacksimplify/hashicorp-certified-terraform-associate-on-azure)
 - Shorten Course folder name to smaller one. Put it in C:\ Drive root path
 
-### Step-07-05: Install Visual Studio Code and Terraform Plugin
+### Step-05: Install Visual Studio Code and Terraform Plugin
 - [Microsoft Visual Studio Code Editor](https://code.visualstudio.com/download)
 - [Hashicorp Terraform Plugin for VS Code](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
 - Configure [Course Github Repository](https://github.com/stacksimplify/hashicorp-certified-terraform-associate-on-azure) using VS Code Editor
 
-### Step-07-06: WindowsOS: Long Path Issues for Terraform CLI
+### Step-06: WindowsOS: Long Path Issues for Terraform CLI
 - [Windows10 Long File Name or Path](https://github.com/hashicorp/terraform/issues/21173)
 - [Microsoft fix](https://answers.microsoft.com/en-us/windows/forum/all/windows-10-commands-with-long-path-name-are-not/13f0f7c7-d55c-4c6c-b19d-9dfec099dd45)
 - Our fix is to shorten our git repo names to see if that helps
 
-## Step-08: LinuxOS: Terraform & Azure CLI Install
+## LinuxOS: Terraform & Azure CLI Install
 - [Download Terraform](https://www.terraform.io/downloads.html)
 - [Linux OS - Terraform Install](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 - Install [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=script)

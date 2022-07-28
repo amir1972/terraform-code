@@ -74,11 +74,11 @@ az --version
 
 [![Image](https://github.com/amir1972/terraform-code/blob/main/Install%20Tools/images/xcode-install-1.png.png "HashiCorp Certified: Terraform Associate on Azure")](https://github.com/amir1972/terraform-code/blob/main/Install%20Tools/images/xcode-install-1.png.png)
 
-[![Image](https://stacksimplify.com/course-images/xcode-install-2.png "HashiCorp Certified: Terraform Associate on Azure")](https://stacksimplify.com/course-images/xcode-install-2.png)
+[![Image](https://github.com/amir1972/terraform-code/blob/main/Install%20Tools/images/xcode-install-2.png "HashiCorp Certified: Terraform Associate on Azure")](https://github.com/amir1972/terraform-code/blob/main/Install%20Tools/images/xcode-install-2.png)
 
-[![Image](https://stacksimplify.com/course-images/xcode-install-3.png "HashiCorp Certified: Terraform Associate on Azure")](https://stacksimplify.com/course-images/xcode-install-3.png)
+[![Image](https://github.com/amir1972/terraform-code/blob/main/Install%20Tools/images/xcode-install-3.png "HashiCorp Certified: Terraform Associate on Azure")](https://github.com/amir1972/terraform-code/blob/main/Install%20Tools/images/xcode-install-3.png)
 
-[![Image](https://stacksimplify.com/course-images/xcode-install-4.png "HashiCorp Certified: Terraform Associate on Azure")](https://stacksimplify.com/course-images/xcode-install-4.png)
+[![Image](https://github.com/amir1972/terraform-code/blob/main/Install%20Tools/images/xcode-install-4.png "HashiCorp Certified: Terraform Associate on Azure")](https://github.com/amir1972/terraform-code/blob/main/Install%20Tools/images/xcode-install-4.png)
 
 
 ## Step-05: Terraform - Authenticating using the Azure CLI

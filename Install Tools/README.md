@@ -3,7 +3,7 @@ title: Install Terraform, Azure CLI and VSCode Editor
 description: Install all the tools required for learning Terraform on Azure Cloud
 ---
 
-## Step-01: Introduction
+## Tools and Links
 - Install [Terraform CLI](https://www.terraform.io/downloads.html)
 - Install [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
 - Install [VS Code Editor](https://code.visualstudio.com/download)
@@ -12,7 +12,7 @@ description: Install all the tools required for learning Terraform on Azure Clou
 
 [![Image](https://stacksimplify.com/course-images/azure-terraform-install-1.png "HashiCorp Certified: Terraform Associate on Azure")](https://stacksimplify.com/course-images/azure-terraform-install-1.png)
 
-## Step-02: MACOS: Terraform Install
+## MACOS: Terraform Install
 - [Download Terraform MAC](https://www.terraform.io/downloads.html)
 - [Install CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 - Unzip the package
@@ -36,13 +36,13 @@ terraform version
 rm -rf /usr/local/bin/terraform
 ``` 
 
-## Step-03: MACOS: IDE for Terraform - VS Code Editor
+## MACOS: Install IDE for Terraform - VS Code Editor
 - [Microsoft Visual Studio Code Editor](https://code.visualstudio.com/download)
 - [Hashicorp Terraform Plugin for VS Code](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
 - Configure [Course Github Repository](https://github.com/stacksimplify/hashicorp-certified-terraform-associate-on-azure) using VS Code Editor
 
 
-## Step-04: MACOS: Install Azure CLI
+## MACOS: Install Azure CLI
 - [Azure CLI Install](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
 - [Install Azure CLI - MAC](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos)
 ```t
@@ -72,7 +72,7 @@ az upgrade
 az --version
 ```
 
-[![Image](https://stacksimplify.com/course-images/xcode-install-1.png "HashiCorp Certified: Terraform Associate on Azure")](https://stacksimplify.com/course-images/xcode-install-1.png)
+[![Image](images/xcode-install-1.png "HashiCorp Certified: Terraform Associate on Azure")](images/xcode-install-1.png)
 
 [![Image](https://stacksimplify.com/course-images/xcode-install-2.png "HashiCorp Certified: Terraform Associate on Azure")](https://stacksimplify.com/course-images/xcode-install-2.png)
 
